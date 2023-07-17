@@ -1,0 +1,32 @@
+Iteration: 1
+1. Create an Iam user name- IAMuser1 with management console 
+access and no permissions attached to it. This user has no access to any services since no 
+permissions attached to it.
+
+Iteration: 2
+Next to this user1 EC2 full access permission is attached to them. Now user is able to
+lauch an Instance , create security group, VPC and all services that are related to Ec2.
+
+Iteration: 3
+Now Iamreadonly policy has been attached to the user1. With these permission user1 is being
+able to read through the IAM section. But user1 has not privileged to create a new user in IAM.
+
+Iteration: 4
+Next user1 got IAMfullaccess permission. Now with new permission user is able to add new user
+through the console. And have full access with the IAM.
+
+Iteration: 5
+In this iteration user1 has give Fulladmistration access. With these permission user has all
+access with the account which is equal to root user.
+
+Iteration: 6
+User1 has created a new user named udaykumar and has given no permissions to the user2.
+
+Iteration: 7
+User1 has attached IAMfullaccess to the user2. With these permission user2 is now able to create a new user 
+and can attach permissions to it.
+
+Iteration: 8
+User2 created an new user and has given fulladmin access to the him.
+This user3 has full access to him which indeed is dangerous to give it.
+

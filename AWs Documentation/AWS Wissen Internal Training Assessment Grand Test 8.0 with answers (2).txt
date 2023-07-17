@@ -1,0 +1,489 @@
+		
+
+
+
+
+
+
+
+
+
+1.Which AWS service or component allows inbound traffic from the internet to access a VPC?
+	 
+Virtual Private Gateway
+	 
+NAT Gateway
+	 
+VPC Route Table
+	 
+Internet gateway
+(Correct)
+
+
+2.A Cloud Practitioner needs to decide which Amazon S3 storage class to use for storing copies of backup data. The storage must provide rapid access when needed but resiliency can be low. Which storage class is most suitable?
+	 
+Amazon S3 Glacier Deep Archive
+	 
+Amazon S3 One Zone-IA
+(Correct)
+	 
+Amazon S3 Glacier
+	 
+Amazon S3 Standard
+
+3.Which of the following types of recommendation does AWS Trusted Advisor provide? (Select TWO.)
+	 
+Performance
+(Correct)
+Serverless architecture
+Replatforming
+Cost optimization
+(Correct)
+ Access auditing
+
+
+4.Which AWS service or feature can be used to restrict the individual API actions that users and roles in each member account can access?
+	 
+Amazon Macie	 
+AWS Organizations
+(Correct)	 
+AWS Shield	 
+AWS IAM
+
+
+5.A user is planning to launch three EC2 instances behind a single Elastic Load Balancer. The deployment should be highly available.
+	 
+Launch the instances as EC2 Reserved Instances in the same AWS Region, but in different Availability Zones.
+	 
+Launch the instances as EC2 Spot Instances in the same AWS Region and the same Availability Zone.
+	 
+Launch the instances in multiple AWS Regions, and use Elastic IP addresses.
+	 
+Launch the instances across multiple Availability Zones in a single AWS Region.
+(Correct)
+
+
+6.Which feature can you use to grant read/write access to an Amazon S3 bucket?
+•	 
+IAM User
+	 
+IAM Policy
+(Correct)
+	 
+IAM Role
+	 
+IAM Group
+
+
+7.Which of the following AWS services are compute services? (Select TWO.)
+	 
+Amazon EFS
+	 
+AWS Elastic Beanstalk
+(Correct)
+	 
+AWS Batch
+(Correct)
+	 
+Amazon Inspector
+	 
+AWS CloudTrail
+
+
+8.AWS Trusted Advisor provides real-time guidance on what characteristics of an AWS account? (Select TWO.)
+	 
+Application performance
+	 
+Security best practices
+(Correct)
+	 
+Application configuration
+	 
+Network utilization
+	 
+Cost optimization
+(Correct)
+
+
+9.Which service allows you to automatically expand and shrink your application in response to demand?   
+	 
+AWS ElastiCache	 
+Amazon DynamoDB	 
+Amazon EC2 Auto Scaling
+(Correct)	 
+Amazon Elastic Load Balancing
+
+
+10.A company stores copies of backups on Amazon S3 and requires rapid access but low resiliency. Which storage class is optimized for these requirements?
+	 
+Amazon S3 Standard	 
+Amazon S3 One Zone-Infrequent Access
+(Correct)	 
+Amazon S3 Glacier	 
+Amazon S3 Glacier Deep Archive
+
+
+11.Which service can be used to help you to migrate databases to AWS quickly and securely?
+	 
+AWS Key Management Service (KMS)	 
+AWS Database Migration Service (DMS)
+(Correct)	 
+AWS DataSync	 
+AWS Server Migration Service (SMS)
+
+
+12.What strategy can assist with allocating metadata to AWS resources for cost tracking and visibility?
+	 
+Access Control
+	 
+Categorizing
+ 
+Tagging
+(Correct)
+ 
+Labelling
+
+
+13.Which beneﬁt of the AWS Cloud eliminates the need for users to try estimating future infrastructure usage?
+	 
+Elasticity of the AWS Cloud
+(Correct)	 
+Economies of scale	 
+Security of the AWS Cloud	 
+Easy global deployments
+
+14.Which beneﬁt of the AWS Cloud eliminates the need for users to try estimating future infrastructure usage?
+	 
+Elasticity of the AWS Cloud
+(Correct)
+Economies of scale
+Security of the AWS Cloud
+Easy global deployments
+
+
+15.Which AWS service can be used to generate encryption keys that can be used to encrypt data? (Select TWO.)
+	 
+AWS Secrets Manager
+	 
+Amazon Macie
+	 
+AWS Certiﬁcate Manager
+	 
+AWS CIoudHSM
+(Correct)
+ 
+AWS Key Management Service (AWS KMS)
+(Correct)
+
+16.Which design principles are enabled by the AWS Cloud to improve the operation of workloads? (Select TWO.)
+	 
+Remove single points of failure
+(Correct)
+Minimize platform design	 
+Minimum viable product	 
+Loose coupling
+(Correct) 
+Customized hardware
+
+
+17.Under the AWS shared responsibility model, what are the customer's responsibilities? (Select TWO.)
+	 
+Physical network devices including firewalls
+Data integrity authentication
+(Correct)	 
+Security of data in transit
+(Correct)	 
+Storage device decommissioning	 
+Physical and environmental security
+
+18.Which AWS support plan should you use if you need a response time of < 15 minutes for a business-critical system failure?
+ 
+Basic	 
+Business	 
+Enterprise
+(Correct) 
+Developer
+
+19.When a customer deploys a database on Amazon RDS, what is the customer responsible for?
+	 
+Managing automatic backups of the database
+Configuring Auto Scaling for high availability of instances
+Patching the underlying operating system	 
+Controlling network access through security groups
+(Correct)
+
+
+20.What advantages does deploying Amazon CloudFront provide? (Select TWO.)
+	 
+Provides serverless compute services   	 
+Improved performance for end users   
+(Correct)	 
+Automated deployment of resources   	 
+A private network link to the AWS cloud   	 
+Reduced latency   
+(Correct)
+
+21.A large company is interested in avoiding long-term contracts and moving from fixed costs to variable costs.
+What is the value proposition of AWS for this company?
+	 
+Volume pricing discounts
+Automated cost optimization
+Pay-as-you-go pricing
+(Correct)
+Economies of scale
+
+22.Which feature of Amazon Rekognition can assist with saving time?
+	 
+Identification of the language of text in a document	 
+Provides on-demand access to compliance-related information	 
+Identification of objects in images and videos   
+(Correct)	 
+Adds automatic speech recognitions (ASR) to applications
+
+23.Under the shared responsibility model, what are examples of shared controls? (Select TWO.)
+	 
+Service and Communications Protection
+Patch management
+(Correct)	 
+Storage system patching	 
+Configuration management
+(Correct)	 
+Physical and environmental
+
+
+24.Under the AWS shared responsibility model what is the customer responsible for? (Select TWO.)
+	 
+Encryption of customer data
+(Correct)	 
+Replacement and disposal of disk drives	 
+Patch management of infrastructure	 
+Configuration of security groups
+(Correct)	 
+Physical security of the data center
+
+25.A company needs to optimize costs and resource usage through monitoring of operational health for all resources running on AWS.
+Which AWS service will meet these requirements?
+	 
+AWS CloudTrail
+
+AWS Control Tower
+ 
+Amazon CloudWatch
+(Correct)
+ 
+AWS Config
+
+
+26.A company has been using an AWS managed IAM policy for granting permissions to users but needs to add some permissions.
+How can this be achieved?
+	 
+Create a rule in AWS WAF.
+	 
+Create a Service Control Policy.
+	 
+Edit the AWS managed policy.
+	 
+Create a custom IAM policy.
+(Correct)
+
+
+27.What is the scope of a VPC within a region?   
+	 
+At least 2 subnets per region	 
+At least 2 data centers per region	 
+Spans all Availability Zones within the region
+(Correct)	 
+Spans all Availability Zones globally
+
+
+28.Which Amazon S3 storage classes should be used for storing data for long time periods when immediate access is not required at the LOWEST cost? (Select TWO.)
+	 
+Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
+	 
+Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
+ 
+Amazon S3 Glacier
+(Correct)
+	 
+Amazon S3 Glacier Deep Archive
+(Correct)
+	 
+Amazon S3 Standard
+
+
+29.A customer needs to determine Total Cost of Ownership (TCO) for a workload that requires physical isolation. Which hosting model should be accounted for?
+	 
+Dedicated Hosts
+(Correct)
+On-Demand Instances
+Reserved Instances	 
+Spot Instances
+
+
+30.Which benefits can an organization achieve by deploying AWS Global Accelerator? (Select TWO.)
+	 
+Decreased latency to reach applications deployed on AWS.
+(Correct)
+	 
+It caches content around the world to reduce latency.
+	 
+Reduces the cost of deploying global services on AWS.
+	 
+It increases the durability of data stored on Amazon S3.
+	 
+Improves the availability of applications on AWS.
+(Correct)
+
+31.Which service supports the resolution of public domain names to IP addresses or AWS resources?   
+	 
+Amazon SNS
+	 
+Amazon CloudFront
+	 
+Hosted Zones
+	 
+Amazon Route 53   
+(Correct)
+
+
+32.What considerations are there when choosing which region to use? (Select TWO.)
+	 
+Available compute capacity   
+Data sovereignty   
+(Correct)	 
+Latency   
+(Correct)	 
+Pricing in local currency    
+Available storage capacity   
+
+
+33.A company has a website that delivers static content from an Amazon S3 bucket to users from around the world. Which AWS service will deliver the content with low latency?
+	 
+Amazon CloudFront
+(Correct)
+AWS Lambda	 
+AWS Elastic Beanstalk	 
+AWS Global Accelerator
+
+34.When storing sensitive company data in Amazon S3, which security best practices should customers follow?
+	 
+Enable AWS WAF to restrict access to the bucket.
+	 
+Enable cross-Region replication on the S3 bucket.
+	 
+Enable requester pays to reduce costs.
+	 
+Enable S3 server-side encryption on the S3 bucket.
+(Correct)
+
+
+35.Which items can be configured from within the VPC management console? (Select TWO.)
+	 
+Auto Scaling 
+Subnets
+(Correct)	 
+Load Balancing 
+Regions
+Security Groups
+(Correct)
+
+36.Which AWS services can be used to connect the AWS Cloud and on-premises resources? (Select TWO.)
+
+	 
+AWS Direct Connect
+(Correct) 
+AWS Managed Services
+ Amazon CloudHSM
+Amazon Connect
+AWS Managed VPN
+(Correct)
+
+37.What can you use to quickly connect your office securely to your Amazon VPC?   
+
+ 
+Route Table   
+
+Direct Connect
+	 
+AWS managed VPN
+(Correct)
+	 
+Internet Gateway
+
+38.A company recently setup an organization in AWS Organizations with one member account. Who pays for usage incurred by users in the AWS accounts?
+	 
+The owner of the member account pays for all usage across accounts.	 
+The owner of the master account pays for all usage across accounts.
+(Correct)	 
+The owner of the master account pays for usage in the master account only.	 
+The owner of the member account pays for usage within their account.
+
+
+39.Which AWS service can an organization use to automate operational tasks on EC2 instances using existing Chef cookbooks?
+	 
+AWS OpsWorks
+(Correct)	 
+AWS Config	 
+AWS Service Catalog	 
+AWS CodeDeploy
+
+40.A company needs to publish messages to a thousands of subscribers simultaneously using a push mechanism.
+Which AWS service should the company use?
+	 
+Amazon Simple Notification Service (Amazon SNS)
+(Correct)
+Amazon Simple Queue Service (Amazon SQS)	 
+Amazon Simple Workflow Service (SWF)
+AWS Step Functions
+
+41.A Cloud Practitioner requires point-in-time recovery (PITR) for an Amazon DynamoDB table. Who is responsible for configuring and performing backups?
+	 
+The customer is responsible for both tasks. 
+AWS is responsible for configuring and the user is responsible for performing backups.	 
+AWS is responsible for both tasks.	 
+The customer is responsible for configuring and AWS is responsible for performing backups.
+(Correct)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
